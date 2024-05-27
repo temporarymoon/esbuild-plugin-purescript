@@ -1,3 +1,4 @@
+# 🚧 This repo has been moved to [prescientmoon/esbuild-plugin-purescript](https://github.com/prescientmoon/esbuild-plugin-purescript) 🚧
 # PureScript esbuild plugin
 
 [esbuild](https://esbuild.github.io/) integration for [PureScript](https://www.purescript.org/)
